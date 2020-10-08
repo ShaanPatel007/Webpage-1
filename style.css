@@ -1,0 +1,28 @@
+p { 
+    text-align: center;
+    color: darkcyan;}
+
+.header{
+    background-color: aquamarine;
+    text-align: center;
+}
+
+.grid{
+        color: cadetblue;
+        flex-direction: column;
+        justify-content: space-evenly;
+    
+}
+
+.footer{
+        color: crimson;
+        flex-direction: row;
+        display:flex;
+        justify-content: flex-end;
+}
+
+body{
+    background-color: #f08080;
+
+
+}
